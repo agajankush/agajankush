@@ -1,4 +1,4 @@
-### Hi there 👋,   
+### Hi there 👋   
 I'm Ashutosh Gajankush
 
 <a href="https://linkedin.com/in/ashutoshgajankush" target="_blank">
