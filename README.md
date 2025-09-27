@@ -21,8 +21,11 @@ I'm a Software Engineer with over 8 years of experience specializing in `Python`
 **Languages & Frameworks:**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
 </p>
 
 **AI & Data Science:**
@@ -37,13 +40,16 @@ I'm a Software Engineer with over 8 years of experience specializing in `Python`
 **Databases & Data Tech:**
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" alt="HIVE">
-  <img src="https://img.shields.io/badge/Apache%20Solr-D9411E?style=for-the-badge&logo=apache%20solr&logoColor=white" alt="SOLR">
+  <img src="https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector">
+  <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" alt="HIVE">
+  <img src="https://img.shields.io/badge/Apache%20Solr-D9411E?style=for-the-badge&logo=apache%20solr&logoColor=white" alt="SOLR">
+  <img src="https://img.shields.io/badge/HDFS-000000?style=for-the-badge&logo=apache&logoColor=white" alt="HDFS">
 </p>
 
 **DevOps & Tools:**
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI/CD">
 </p>
 
@@ -79,6 +85,12 @@ I focus on delivering measurable business impact. Here are a few achievements:
 - **Improved AI Performance:** Improved AI response selection accuracy by **30%** by implementing Monte Carlo Simulation.
 - **Accelerated Deployments:** Automated delivery pipelines using GitLab CI/CD, decreasing deployment time by **20%**.
 - **Optimized Performance:** Reduced database query time by **30%** through efficient data modeling with the Django ORM.
+
+---
+## 🎯 Currently
+
+- **Open to New Opportunities:** Actively seeking a challenging **Senior Software Engineer** or **AI/ML Engineering** role where I can leverage my expertise in **Python/Django**, **scalable architecture** (FastAPI, Hexagonal Architecture), and **AI frameworks** (CrewAI, LangGraph, Gemini).
+- **Learning & Building:** Deep-diving into **LLM orchestration** techniques and exploring **Serverless architecture** patterns on AWS.
 
 ---
 
