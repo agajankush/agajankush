@@ -12,7 +12,7 @@
 
 ---
 
-I'm a Software Engineer with over 7+ years of experience specializing in `Python` and `Django`. I am passionate about building scalable, high-performance applications with a strong interest in applied AI and data engineering. I'm eager to contribute to a fast-paced, ambitious team and am ready to relocate for the right opportunity.
+Software Engineer with 7+ years building scalable, fault-tolerant systems using `Python` and `Django`. Proven expertise in domain modeling, REST APIs, and async processing with demonstrated success reducing costs by 80%, eliminating 99% of errors, and improving system accuracy by 30%. Passionate about solving complex technical challenges and leveraging technology for meaningful impact.
 
 ---
 
