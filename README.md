@@ -12,7 +12,7 @@
 
 ---
 
-I'm a Software Engineer with over 8 years of experience specializing in `Python` and `Django`. I am passionate about building scalable, high-performance applications with a strong interest in applied AI and data engineering. I'm eager to contribute to a fast-paced, ambitious team and am ready to relocate for the right opportunity.
+I'm a Software Engineer with over 7+ years of experience specializing in `Python` and `Django`. I am passionate about building scalable, high-performance applications with a strong interest in applied AI and data engineering. I'm eager to contribute to a fast-paced, ambitious team and am ready to relocate for the right opportunity.
 
 ---
 
