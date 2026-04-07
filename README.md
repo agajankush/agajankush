@@ -84,15 +84,6 @@ I'm a **Senior Software Engineer & AI Engineer** with over 8 years of experience
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agajankush&show_icons=true&theme=vue&include_all_commits=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agajankush&layout=compact&langs_count=6&theme=vue" height="150" />
-</p>
-
----
-
 ### 📫 Get In Touch
 
 I'm always open to discussing AI architecture, scalable backends, or interesting open-source projects.
